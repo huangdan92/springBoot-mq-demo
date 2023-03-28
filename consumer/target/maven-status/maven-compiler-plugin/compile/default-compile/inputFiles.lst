@@ -1,0 +1,6 @@
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/consumer/src/main/java/com/wuhao/domain/User.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/consumer/src/main/java/com/wuhao/mq/MessageListen.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/consumer/src/main/java/com/wuhao/mq/RocketMQConsumer.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/consumer/src/main/java/com/wuhao/mq/MessageProcessorImpl.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/consumer/src/main/java/com/wuhao/mq/MessageProcessor.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/consumer/src/main/java/com/wuhao/ConsumerApplication.java

@@ -1,0 +1,7 @@
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/provider/src/main/java/com/wuhao/domain/User.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/provider/src/main/java/com/wuhao/service/impl/UserServiceImpl.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/provider/src/main/java/com/wuhao/MqController.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/provider/src/main/java/com/wuhao/mq/RocketMQProducer.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/provider/src/main/java/com/wuhao/ProviderApplication.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/provider/src/main/java/com/wuhao/service/UserService.java
+/Users/huangdan/myFiles/myCodes/IDEAProjects/springBoot-mq-demo/provider/src/main/java/com/wuhao/dao/UserMapper.java
